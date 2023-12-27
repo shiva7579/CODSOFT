@@ -5,3 +5,4 @@ langdetect
 matplotlib
 seaborn
 googletrans
+nltk
